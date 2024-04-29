@@ -1,0 +1,22 @@
+.carousel-caption {
+    right: 0;
+    left: 0;
+    background: linear-gradient(0deg, black, transparent);
+}
+
+.carousel-indicators {
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    background-color: black;
+}
+
+.image-title {
+    font-size: 4rem;
+    margin-bottom: 30px;
+}
+
+.image-text {
+    padding: 0 190px;
+    font-size: 1.25rem;
+}
